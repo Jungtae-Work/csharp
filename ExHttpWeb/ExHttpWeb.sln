@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExHttpRequest", "ExHttpRequest\ExHttpRequest.csproj", "{328C7B20-B914-4904-A8F9-1A4C72115911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExHttpRequestTask", "ExHttpRequestTask\ExHttpRequestTask.csproj", "{9A62EA12-BFBE-4E40-923A-4A4321FAA5A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{328C7B20-B914-4904-A8F9-1A4C72115911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328C7B20-B914-4904-A8F9-1A4C72115911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328C7B20-B914-4904-A8F9-1A4C72115911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328C7B20-B914-4904-A8F9-1A4C72115911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A62EA12-BFBE-4E40-923A-4A4321FAA5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A62EA12-BFBE-4E40-923A-4A4321FAA5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A62EA12-BFBE-4E40-923A-4A4321FAA5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A62EA12-BFBE-4E40-923A-4A4321FAA5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB803F0-830D-4DA9-82DF-70D4B45E4ABC}
+	EndGlobalSection
+EndGlobal
